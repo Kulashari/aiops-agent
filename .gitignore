@@ -1,11 +1,6 @@
 # Ignore result artifacts
-results/
+results.csv
 
 # Python cache
 __pycache__/
 *.py[cod]
-
-# Virtual environments
-venv/
-env/
-.venv/
