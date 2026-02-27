@@ -20,7 +20,7 @@ Make sure you have **Python 3.10+** and `pip` installed, then run from the proje
 
 ```pip install -r requirements.txt```
 
-<h3>2) Rune a single simulation (demo)</h3>
+<h3>2) Run a single simulation (demo)</h3>
 
 This prints a timeline plus a final incident report:
 
