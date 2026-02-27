@@ -1,0 +1,11 @@
+# Ignore result artifacts
+results/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
