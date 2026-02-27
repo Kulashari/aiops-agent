@@ -12,6 +12,13 @@ the core loop you'd expect from an autonomous operations system:
 
 Everything runs in a local simulation so the program can be iterated quickly and be able to evaluate behavior across many scenarios.
 
+<div align="center">
+  <video width="560" height="315" controls style="max-width: 100%; height: auto; border-radius: 8px;">
+    <source src="video_demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 <h2>Setup Instructions</h2>
 
 <h3>1) Install dependencies</h3>
